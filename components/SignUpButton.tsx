@@ -4,8 +4,7 @@ import { Button } from "@/components/ui/button";
 
 export default function SignUpButton() {
   const handleSignUp = () => {
-    window.open('https://docs.google.com/forms/d/e/1FAIpQLSe7jsrFsEnPcHb67QG0u0cUa4h_cysz1TlVXRDBrDey2VGYZg/viewform?usp=pp_url&entry.477117138=peek-ai-investment
-', '_blank');
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSe7jsrFsEnPcHb67QG0u0cUa4h_cysz1TlVXRDBrDey2VGYZg/viewform?usp=pp_url&entry.477117138=peek-ai-investment', '_blank');
   };
 
   return (
