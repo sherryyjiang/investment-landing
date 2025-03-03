@@ -71,7 +71,7 @@ export default function Home() {
               <div className="flex flex-col items-center text-center px-1">
                 <div className="mb-6 h-[500px] w-full relative overflow-hidden bg-black rounded-3xl">
                   <Image
-                    src="/investment_insights.png"
+                    src="/Investment_insights.png"
                     alt="Debt insights screen"
                     fill
                     className="object-contain"
@@ -85,7 +85,7 @@ export default function Home() {
               <div className="flex flex-col items-center text-center px-1">
                 <div className="mb-6 h-[500px] w-full relative overflow-hidden">
                   <Image
-                    src="/investment_chat.png"
+                    src="/Investment_chat.png"
                     alt="Debt chat screen"
                     fill
                     className="object-contain"
